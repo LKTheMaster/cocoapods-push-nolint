@@ -1,6 +1,6 @@
 # cocoapods-push-nolint
 
-A description of cocoapods-push-nolint.
+更新私有库时跳过验证直接更新，节省私有库更新的时间
 
 ## Installation
 
@@ -8,4 +8,4 @@ A description of cocoapods-push-nolint.
 
 ## Usage
 
-    $ pod spec nolint POD_NAME
+    $ pod repo push nolint YourPodSpec yourpod.podspec 

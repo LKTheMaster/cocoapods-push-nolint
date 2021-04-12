@@ -1,1 +1,1 @@
-require 'cocoapods-push-nolint/gem_version'
+require 'pod/gem_version'

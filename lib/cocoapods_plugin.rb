@@ -1,1 +1,1 @@
-require 'cocoapods-push-nolint/command'
+require 'pod/command/repo/push/nolint'
